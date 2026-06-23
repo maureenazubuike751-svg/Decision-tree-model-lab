@@ -1,2 +1,1 @@
-# Decision-tree-model-lab
-Decision tree
+RNN SMS SPAM detection lab
